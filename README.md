@@ -1,3 +1,3 @@
-## About Laravel
+## About SPP
 
 Sistem Penjagaan pegawai 
