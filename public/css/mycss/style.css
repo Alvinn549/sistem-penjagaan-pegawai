@@ -1,0 +1,158 @@
+#btn-modal-persyaratan-index{
+	text-decoration: underline;
+	height: 36px;
+	text-align: center;
+}
+#btn-modal-persyaratan-index:hover{
+	text-decoration: none;
+	background-color: skyblue;
+}
+
+.cardIndex{
+	background-color: black;
+	color: white;
+}
+.jumbotronTxt{
+	color: white;
+	text-align: center;
+	font-size: 2.5em;
+}
+.today{ 
+	text-align: center;
+	font-size: 1.5em;
+	color: white;
+}
+.loginTxt{
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+}
+.loginTxt:hover{
+	/*color: #1363DF;*/
+	background-color: rgba(255,255,255, 0.3);
+	text-decoration-color: white;
+	color: white;
+}
+
+.containerLogin{
+	margin-top: 100px;
+}
+.cardLogin{
+	border-radius: 15px;
+}
+.loginLogo{
+	min-width: 50px;
+}
+.loginIcon{
+	width: 60px;
+}
+.loginBtn{
+	width: 200px;
+	border-radius: 10px;
+	background-color: #1363DF;
+	color: white;
+	font-weight: bold;
+}
+.loginBtn:hover{
+	background-color: #06283D;
+	color: white;
+	font-weight: bold;
+}
+.usernamebox{
+	border-radius: 10px;
+}
+.passwordbox{
+	border-radius: 10px;
+}
+.loginTitle{
+	font-size: 25px;
+}
+.logoutBtn{
+	width: 70px;
+}
+.logoutCancel:hover{
+	background-color: green;
+}
+
+
+.dashboardTitle{
+	font-size: 18px;
+}
+
+
+label{
+	font-weight: bold;
+}
+
+#btn-create-modal{
+	background-color: #E04D01;
+	color: white;
+}
+#btn-create-modal:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+table{
+	background-color: white;
+}
+table.dataTable thead tr {
+	text-align: center;
+	background-color: #06283D;
+	color: white;
+}
+
+.index-count{
+	font-size: 30px;
+}
+
+.db-card-wrapper{
+	border-radius: 20px;
+}
+.db-card-gaji{
+	background-color: #ff0063;
+	border-radius: 15px;
+}
+.db-card-gaji:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.db-card-pangkat{
+	background-color: #187498;
+	border-radius: 15px;
+}
+.db-card-pangkat:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.db-card-pensiun{
+	background-color: #3CCF4E;
+	border-radius: 15px;
+}
+.db-card-pensiun:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.db-card-gaji-done{
+	background-color: #ff0063;
+	border-radius: 15px;
+}
+.db-card-gaji-done:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.db-card-pangkat-done{
+	background-color: #187498;
+	border-radius: 15px;
+}
+.db-card-pangkat-done:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.db-card-pensiun-done{
+	background-color: #3CCF4E;
+	border-radius: 15px;
+}
+.db-card-pensiun-done:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.btn{
+	border-radius: 8px;
+}
+.card-edit{
+	border-radius: 17px;
+}
