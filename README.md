@@ -43,6 +43,9 @@ To deploy this project
 4. **Buka `.env` lalu tambahkan kode baris berikut **
 
 ```bash
+  TIMEZONE=Asia/Jakarta
+  LOCALE_ID=id
+  FAKER_LOCALE=id_ID
   SCOUT_DRIVER=database
 ```
 
