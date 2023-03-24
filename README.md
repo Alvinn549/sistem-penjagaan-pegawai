@@ -1,4 +1,4 @@
-# Sistem Informasi Bengkel Cat Berbasis Web
+# Sistem Penjagaan Pegawai
 
 Project ini dibuat saat melakukan praktik kerja lapangan di Dinas Komunikasi dan Infromatika Kab Pacitan
 
@@ -10,8 +10,8 @@ Dibangun menggunakan
 
 **Admin Default Account**
 
-- username : admin1
-- Password : admin12345
+- username : Admin
+- Password : password
 
 ## Deployment
 
@@ -20,8 +20,8 @@ To deploy this project
 1. **Clone Repository**
 
 ```bash
-  git clone https://github.com/Alvinn549/sitem-penjagaan-pegawai
-  cd sistem-informasi-bengkel-cat-berbasis-web
+  git clone https://github.com/Alvinn549/sistem-penjagaan-pegawai
+  cd sistem-penjagaan-pegawai
   composer install
 ```
 
