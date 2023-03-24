@@ -40,19 +40,25 @@ To deploy this project
   DB_PASSWORD=
 ```
 
-4. **Generate app key**
+4. **Buka `.env` lalu tambahkan kode baris berikut **
+
+```bash
+  SCOUT_DRIVER=database
+```
+
+5. **Generate app key**
 
 ```bash
   php artisan key:generate
 ```
 
-5. **Jalankan migration dan seeder**
+6. **Jalankan migration dan seeder**
 
 ```bash
   php artisan migrate --seed
 ```
 
-6. **Jalankan website**
+7. **Jalankan website**
 
 ```bash
   php artisan serve
