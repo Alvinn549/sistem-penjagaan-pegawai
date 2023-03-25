@@ -1,6 +1,6 @@
 # Sistem Penjagaan Pegawai
 
-Project ini dibuat saat melakukan praktik kerja lapangan di Dinas Komunikasi dan Infromatika Kab Pacitan
+Project ini dibuat saat melakukan praktik kerja lapangan di Dinas Komunikasi dan Informatika Kab Pacitan
 
 Dibangun menggunakan 
 - Laravel 9
