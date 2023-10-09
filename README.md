@@ -79,7 +79,13 @@ To deploy this project
   php artisan migrate --seed
 ```
 
-7. **Jalankan website**
+7. **Jalankan storage link**
+
+```bash
+  php artisan storage:link
+```
+
+8. **Jalankan website**
 
 ```bash
   php artisan serve
